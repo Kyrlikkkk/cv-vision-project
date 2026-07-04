@@ -1,0 +1,15 @@
+train: ../data/processed/train/images
+val: ../data/processed/test/images
+test: ../data/processed/test/images
+nc: 10
+names:
+  0: Atelectasis
+  1: Calcification
+  2: Consolidation
+  3: Effusion
+  4: Emphysema
+  5: Fibrosis
+  6: Fracture
+  7: Mass
+  8: Nodule
+  9: Pneumothorax

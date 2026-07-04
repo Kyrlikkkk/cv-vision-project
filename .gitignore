@@ -1,0 +1,7 @@
+data/raw/
+data/processed/
+
+# Веса моделей
+*.pt
+*.pth
+*.h5

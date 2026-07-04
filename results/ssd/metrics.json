@@ -1,0 +1,9 @@
+{
+    "model": "SSD",
+    "map50": 0.021,
+    "map50_95": 0.010,
+    "precision": 0.010,
+    "recall": 0.044,
+    "f1": 0.016,
+    "time_hours": 4.0
+}
